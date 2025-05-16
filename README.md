@@ -6,6 +6,8 @@ Dette er en digital spill butikk der du lager en bruker, også kjøper spill som
 
 ### Hvordan bruke:  
 
+ps: Hovedmenyen er home.php, men anbefaler p registrere en bruker i register.php først.
+
 1. Når man åpner nettsiden skal man først lage en bruker med epost brukernavn, passord og telefon om du ønsker.
 
 2. Gå til butikken og finn et spill du ønsker å kjøpe.
